@@ -46,7 +46,7 @@
    * [定制自己的指挥台](ding_zhi_zi_ji_de_zhi_hui_tai.md)
    * [操作声音](cao_zuo_sheng_yin.md)
    * [声音和画面结合--vj之路](sheng_yin_he_hua_mian_jie_5408--_vj_zhi_lu.md)
-   * 精通TOPs--简易画板（feedback）
+   * [精通TOPs--简易画板（feedback）](jing_tong_tops_jian_yi_hua_ban_ff08_feedback.md)
    * 精通TOPs2-图片导航工具（instance）
    * 操作三维空间1--三维物体渲染
    * 操作三维空间2--粒子效果和声音结合
