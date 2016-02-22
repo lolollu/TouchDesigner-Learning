@@ -32,5 +32,5 @@
        * [参数中的表达式](can_shu_zhong_de_biao_da_shi.md)
        * [用In和Out思想来整体思考设计结构](yong_in_he_out_si_xiang_lai_zheng_ti_si_kao_she_ji.md)
        * [常用快捷键](chang_yong_kuai_jie_jian.md)
-* [深入了解节点-夯实基础，老师打怪把级练完](Chapter_4.md)
+* [深入了解节点-夯实基础，老师打怪把级练完](Chapter_3.md)
 
