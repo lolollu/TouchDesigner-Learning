@@ -47,7 +47,7 @@
    * [操作声音](cao_zuo_sheng_yin.md)
    * [声音和画面结合--vj之路](sheng_yin_he_hua_mian_jie_5408--_vj_zhi_lu.md)
    * [精通TOPs--简易画板（feedback）](jing_tong_tops_jian_yi_hua_ban_ff08_feedback.md)
-   * 精通TOPs2-图片导航工具（instance）
+   * [精通TOPs2-图片导航工具（instance）](jing_tong_tops2_tu_pian_dao_hang_gong_ju_ff08_inst.md)
    * 操作三维空间1--三维物体渲染
    * 操作三维空间2--粒子效果和声音结合
    * 操作三维空间3--视频素材与三位的结合（圆柱桶矩阵高度变化）
