@@ -66,4 +66,5 @@
    * Python，GLSL，C++在TouchDesigner中的作用
    * Python在TouchDesigner中的基本知识
    * python查找与利用内建类和方法函数的正确姿势
+   * python应用1--定义简单实时的集群行为规则
 
