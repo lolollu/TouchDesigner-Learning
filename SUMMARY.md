@@ -28,7 +28,7 @@
        * [修改节点参数](xiu_gai_jie_dian_can_shu.md)
        * [自定义节点参数](zi_ding_yi_jie_dian_can_shu.md)
        * [创建简单的组件](chuang_jian_jian_dan_de_zu_jian.md)
-       * Tscript变量和Python变量
+       * [Tscript变量和Python变量](tscriptbian_liang_he_python_bian_liang.md)
        * 参数中的表达式
        * 用In和Out思想来整体思考设计结构
        * 常用快捷键
