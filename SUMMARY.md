@@ -67,4 +67,5 @@
    * Python在TouchDesigner中的基本知识
    * python查找与利用内建类和方法函数的正确姿势
    * python应用1--定义简单实时的集群行为规则
+   * python应用2--让CG世界更程序化（自动判定距离来连线）
 
