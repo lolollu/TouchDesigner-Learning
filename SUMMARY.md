@@ -64,4 +64,5 @@
    * 连接oculus--打造自家超大IMAX虚拟影院
 * 脚本语言应用--远离凡夫俗子走向大师之路
    * Python，GLSL，C++在TouchDesigner中的作用
+   * Python在TouchDesigner中的基本知识
 
