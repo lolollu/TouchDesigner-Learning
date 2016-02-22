@@ -22,7 +22,7 @@
    * [使用TouchDesigner的基本素养](shi_yong_touchdesigner_de_ji_ben_su_yang.md)
        * [TouchDesigner的哲学](touchdesignerde_zhe_xue.md)
        * [节点家族](jie_dian_jia_zu.md)
-       * 节点的基本状态
+       * [节点的基本状态](jie_dian_de_ji_ben_zhuang_tai.md)
        * 连接与断开节点
        * 查看节点数据
        * 修改节点参数
