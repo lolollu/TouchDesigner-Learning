@@ -56,4 +56,5 @@
 * [配合其他硬件--三头六臂小哪吒](pei_he_qi_ta_ying_4ef6--_san_tou_liu_bi_xiao_na_zh.md)
    * 连接摄像头--把自己变成花姑娘
    * 连接投影仪--3D投影用泡沫板也能搞装修
+   * 连接leapmotion--钢铁侠的操作台
 
