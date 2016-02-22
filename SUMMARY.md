@@ -12,5 +12,5 @@
        * [播放控制](bo_fang_kong_zhi.md)
    * [用户界面](yong_hu_jie_mian.md)
        * [时间信息](shi_jian_xin_xi.md)
-       * 面板布局
+       * [面板布局](mian_ban_bu_ju.md)
 
