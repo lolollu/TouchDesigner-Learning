@@ -25,7 +25,7 @@
        * [节点的基本状态](jie_dian_de_ji_ben_zhuang_tai.md)
        * [连接与断开节点](lian_jie_yu_duan_kai_jie_dian.md)
        * [查看节点数据](cha_kan_jie_dian_shu_ju.md)
-       * 修改节点参数
+       * [修改节点参数](xiu_gai_jie_dian_can_shu.md)
        * 自定义节点参数
        * 创建简单的组件
        * Tscript变量和Python变量
