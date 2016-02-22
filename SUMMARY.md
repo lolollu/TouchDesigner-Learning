@@ -22,4 +22,5 @@
    * [使用TouchDesigner的基本素养](shi_yong_touchdesigner_de_ji_ben_su_yang.md)
        * TouchDesigner的哲学
        * 节点家族
+       * 节点的基本状态
 
