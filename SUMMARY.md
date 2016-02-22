@@ -8,7 +8,7 @@
    * TouchDesigner是什么
    * 为什么要使用TouchDesigner
 * 认识TouchDesigner--先知其物再谈如何骑物
-   * 安装TouchDesigner
+   * [安装TouchDesigner](an_zhuang_touchdesigner.md)
        * 播放控制
    * [用户界面](yong_hu_jie_mian.md)
        * 时间信息
