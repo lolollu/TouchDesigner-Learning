@@ -47,5 +47,5 @@
    * 操作声音
    * 声音和画面结合--vj之路
    * 精通TOPs--简易画板（feedback）
-   * 精通TOPs
+   * 精通TOPs2-图片导航工具（instance）
 
