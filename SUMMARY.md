@@ -37,4 +37,5 @@
    * CHOPs
    * SOPs
    * DATs
+   * COMPs
 
