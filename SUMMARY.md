@@ -34,4 +34,5 @@
        * [常用快捷键](chang_yong_kuai_jie_jian.md)
 * [深入了解节点-夯实基础，老师打怪把级练完](Chapter_3.md)
    * TOPs
+   * CHOPs
 
