@@ -30,6 +30,6 @@
        * [创建简单的组件](chuang_jian_jian_dan_de_zu_jian.md)
        * [Tscript变量和Python变量](tscriptbian_liang_he_python_bian_liang.md)
        * [参数中的表达式](can_shu_zhong_de_biao_da_shi.md)
-       * 用In和Out思想来整体思考设计结构
+       * [用In和Out思想来整体思考设计结构](yong_in_he_out_si_xiang_lai_zheng_ti_si_kao_she_ji.md)
        * 常用快捷键
 
