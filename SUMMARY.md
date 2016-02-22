@@ -23,7 +23,7 @@
        * [TouchDesigner的哲学](touchdesignerde_zhe_xue.md)
        * [节点家族](jie_dian_jia_zu.md)
        * [节点的基本状态](jie_dian_de_ji_ben_zhuang_tai.md)
-       * 连接与断开节点
+       * [连接与断开节点](lian_jie_yu_duan_kai_jie_dian.md)
        * 查看节点数据
        * 修改节点参数
        * 自定义节点参数
