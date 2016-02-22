@@ -20,7 +20,7 @@
        * [模板/模块浏览器](mo_677f_mo_kuai_liu_lan_qi.md)
        * [搜索栏](sou_suo_lan.md)
    * [使用TouchDesigner的基本素养](shi_yong_touchdesigner_de_ji_ben_su_yang.md)
-       * TouchDesigner的哲学
+       * [TouchDesigner的哲学](touchdesignerde_zhe_xue.md)
        * 节点家族
        * 节点的基本状态
        * 连接与断开节点
