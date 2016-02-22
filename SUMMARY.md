@@ -63,4 +63,5 @@
    * 连接arduino--亲手制作烂漫求爱LED灯
    * 连接oculus--打造自家超大IMAX虚拟影院
 * 脚本语言应用--远离凡夫俗子走向大师之路
+   * Python，GLSL，C++在TouchDesigner中的作用
 
