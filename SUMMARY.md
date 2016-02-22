@@ -42,7 +42,7 @@
 * [主题实例--终于可以甩开膀子赢娶白富美了](Chapter_4.md)
    * [学习的习惯--正确的查找资料的方式](xue_xi_de_xi_60ef--_zheng_que_de_cha_zhao_zi_liao_.md)
    * [参数与表达式的运用](can_shu_yu_biao_da_shi_de_yun_yong.md)
-   * 局部变量
+   * [局部变量](ju_bu_bian_liang.md)
    * 定制自己的指挥台
    * 操作声音
    * 声音和画面结合--vj之路
