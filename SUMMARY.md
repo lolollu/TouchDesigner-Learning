@@ -74,4 +74,5 @@
    * TOPs中的glsl应用--自定义美图秀秀滤镜效果
    * SOPs中的glsl应用--光线追踪的全局光照效果
    * c++在touchdesigner中的基本知识
+   * c++开发环境和配置
 
