@@ -9,6 +9,7 @@
    * 为什么要使用TouchDesigner
 * 认识TouchDesigner--先知其物再谈如何骑物
    * 安装TouchDesigner
+       * 播放控制
    * 用户界面
        * 时间信息
 
