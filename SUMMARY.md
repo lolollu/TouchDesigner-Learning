@@ -15,7 +15,7 @@
        * [面板布局](mian_ban_bu_ju.md)
        * [节点网络编辑窗口](jie_dian_wang_luo_bian_ji_chuang_kou.md)
        * [节点](jie_dian.md)
-       * 参数窗口
+       * [参数窗口](can_shu_chuang_kou.md)
        * 参数
        * 模板/模块浏览器
        * 搜索栏
