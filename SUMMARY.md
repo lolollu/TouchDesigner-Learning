@@ -18,5 +18,5 @@
        * [参数窗口](can_shu_chuang_kou.md)
        * [参数](can_shu.md)
        * [模板/模块浏览器](mo_677f_mo_kuai_liu_lan_qi.md)
-       * 搜索栏
+       * [搜索栏](sou_suo_lan.md)
 
