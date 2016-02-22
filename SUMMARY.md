@@ -44,7 +44,7 @@
    * [参数与表达式的运用](can_shu_yu_biao_da_shi_de_yun_yong.md)
    * [局部变量](ju_bu_bian_liang.md)
    * [定制自己的指挥台](ding_zhi_zi_ji_de_zhi_hui_tai.md)
-   * 操作声音
+   * [操作声音](cao_zuo_sheng_yin.md)
    * 声音和画面结合--vj之路
    * 精通TOPs--简易画板（feedback）
    * 精通TOPs2-图片导航工具（instance）
