@@ -1,10 +1,10 @@
 # 安装TouchDesigner
 
-在开始TouchDesigner之旅之前必不可少的是将该软件安装到本地。TD的官方网站是：
+在开始TouchDesigner之旅之前必不可少的是将该软件安装到本地。TD的官方下载网站是：
 ```
-http://www.derivative.ca/
+https://www.derivative.ca/088/Downloads/
 ```
-我们可以在主页中跳转到`DOWNLOADS`页面，便可找到`Download TouchDesigner 088`的按钮。
+或者我们可以在主页中跳转到`DOWNLOADS`页面，便可找到`Download TouchDesigner 088`的按钮。
 
 读者由于是学习的目的，所以可以直接下载免费版本来使用。免费版本和商用版本的区别对于初学者来说最大的不同在于商用版本的输出分辨率能超过`1280X1280`这个限制，而非商用版只能在该分辨率一下进行操作。另外C++的相关开发接口也是对非商用版本关闭的，不过作者可以保证，初中级阶段是非常难遇到需要直接通过C++的自定义节点开发来满足自己想达到的需求的。
 
