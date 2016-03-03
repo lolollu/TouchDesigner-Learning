@@ -15,7 +15,6 @@
        * [参数窗口](can_shu_chuang_kou.md)
        * [参数](can_shu.md)
        * [时间信息与播放控制](shi_jian_xin_xi.md)
-       * [播放控制](bo_fang_kong_zhi.md)
        * [面板布局](mian_ban_bu_ju.md)
        * [模板/模块浏览器](mo_677f_mo_kuai_liu_lan_qi.md)
        * [搜索栏](sou_suo_lan.md)
